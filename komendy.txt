@@ -1,1 +1,1 @@
-(base) mbp-dawid-3:learning-git-2 dawidkruszynski$ html-validate
+html-validate *.html
